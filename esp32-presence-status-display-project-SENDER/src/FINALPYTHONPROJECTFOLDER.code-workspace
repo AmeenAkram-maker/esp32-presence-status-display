@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Desktop/FINALPYTHONPROJECTFOLDER"
+		},
+		{
+			"name": "esp32-presence-status-display-project-SENDER",
+			"path": ".."
+		},
+		{
+			"name": "esp32-presence-status-display-project-RECIEVER",
+			"path": "../../esp32-presence-status-display-project-RECIEVER"
+		}
+	],
+	"settings": {}
+}
